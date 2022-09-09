@@ -1,3 +1,4 @@
 *.kicad_prl
 *-backups/
 \#auto_saved_files#
+fp-info-cache
