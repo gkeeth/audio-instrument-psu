@@ -2,3 +2,5 @@
 *-backups/
 \#auto_saved_files#
 fp-info-cache
+
+*.FCStd1
